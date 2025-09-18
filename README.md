@@ -8,4 +8,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `<Add more>` | `<CCID>`  |
+| `Abbas Rizvi` | `aarizvi2`  |
